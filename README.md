@@ -30,7 +30,7 @@ The analysis is structured into three key phases:
 - **Actionable Recommendations**:  
   Based on the combined findings, I developed recommendations and strategies tailored to improve customer experience and optimize revenue for the hotel.
 
-The dataset can be categorized into four main areas: **Customers, Bookings, Revenue, and Preferences**, with a total of **83,590 records**. Prior to analysis, comprehensive data checks were performed to ensure quality and familiarize myself with the dataset. Details of the data quality checks can be found [here](#).
+The dataset can be categorized into four main areas: **Customers, Bookings, Revenue, and Preferences**, with a total of **83,590 records**. Prior to analysis, comprehensive data checks were performed to ensure quality and familiarize myself with the dataset. Details of the data quality checks and analysis can be found [here](Notebooks/hotel-customer-and-revenue-analysis.ipynb).
 
 ![ERD Diagram](images/hotel_data_diagram.svg)
 
