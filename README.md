@@ -1,6 +1,10 @@
 # Hotel Booking Analysis and Insights
 ---
 
+Detailed write up can be found [here](Notebooks/hotel-customer-and-revenue-analysis.ipynb).
+
+Sql Queries can be found [here](Queries/hotel_analysis_queries.sql).
+
 ## Table of Contents
 1. [Project Background](#project-background)
 2. [Executive Summary](#executive-summary)
