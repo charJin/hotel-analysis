@@ -1,24 +1,9 @@
 # Hotel Booking Analysis and Insights
----
 
 Detailed write up can be found [here](Notebooks/hotel-customer-and-revenue-analysis.ipynb).
 
 Sql Queries can be found [here](Queries/hotel_analysis_queries.sql).
 
-## Table of Contents
-1. [Project Background](#project-background)
-2. [Executive Summary](#executive-summary)
-3. [Analytical Insights](#analytical-insights)
-    - [Revenue Trends](#revenue-trends)
-    - [Customer Segmentation](#customer-segmentation)
-    - [Room Preferences by Segment](#room-preferences-by-segment)
-    - [Loyalty Program Performance](#loyalty-program-performance)
-    - [Lead Time Patterns](#lead-time-patterns)
-    - [Cancellation and No-Show Trends](#cancellation-and-no-show-trends)
-4. [Recommendations](#recommendations)
-5. [Assumptions and Caveats](#assumptions-and-caveats)
-
----
 ## Project Background
 
 Lisbon Horizon Hotel, located in Lisbon, Portugal, serves a diverse clientele of both local and international guests. This project focuses on analyzing the hotel’s customer booking data to uncover patterns in customer behavior, preferences, and their impact on revenue. The insights generated aim to inform strategic decisions that enhance customer satisfaction and drive revenue growth.
@@ -38,5 +23,19 @@ The dataset can be categorized into four main areas: **Customers, Bookings, Reve
 
 ![ERD Diagram](images/hotel_data_diagram.svg)
 
+
+---
+## Table of Contents
+1. [Project Background](#project-background)
+2. [Executive Summary](#executive-summary)
+3. [Analytical Insights](#analytical-insights)
+    - [Revenue Trends](#revenue-trends)
+    - [Customer Segmentation](#customer-segmentation)
+    - [Room Preferences by Segment](#room-preferences-by-segment)
+    - [Loyalty Program Performance](#loyalty-program-performance)
+    - [Lead Time Patterns](#lead-time-patterns)
+    - [Cancellation and No-Show Trends](#cancellation-and-no-show-trends)
+4. [Recommendations](#recommendations)
+5. [Assumptions and Caveats](#assumptions-and-caveats)
 
 ---
